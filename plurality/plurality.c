@@ -6,6 +6,7 @@
 #define MAX 9
 
 // Creates a custom type called candidate that have name and vote
+// By doing this we can pair group infomation together within an array
 typedef struct
 {
   string name;
