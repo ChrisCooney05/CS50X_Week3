@@ -2,7 +2,7 @@
 
 All files are from week 3 of Harvard CS50X - Algorithms 
 
-- **Plurality** - A program that runs a plurality election, or a "first-past-the-post" vote. ✉️
+- **Plurality** - A program that runs a plurality election, or a "first-past-the-post" vote ✉️
   - Complete the Vote function
     - vote takes a single argument, a string called name, representing the name of the candidate who was voted for.
     - If name matches one of the names of the candidates in the election, then update that candidate’s vote total to account for the new vote. The vote function in this case should return true to indicate a successful ballot.
@@ -11,7 +11,7 @@ All files are from week 3 of Harvard CS50X - Algorithms
     - The function should print out the name of the candidate who received the most votes in the election, and then print a newline. 
     - It is possible that the election could end in a tie if multiple candidates each have the maximum number of votes. In that case, you should output the names of each of the winning candidates, each on a separate line.
 
-- **Tideman** - A program that runs a [Tideman election](https://en.wikipedia.org/wiki/Ranked_pairs) - 🥇
+- **Tideman** - A program that runs a [Tideman election](https://en.wikipedia.org/wiki/Ranked_pairs) 🥇
   - Complete the vote function
     - The function takes arguments rank, name, and ranks. If name is a match for the name of a valid candidate, then you should update the ranks array to indicate that the voter has the candidate as their rank preference (Recall that ranks[i] here represents the user’s ith preference.)
     - The function should return true if the rank was successfully recorded, and false otherwise
