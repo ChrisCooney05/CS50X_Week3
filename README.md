@@ -1,4 +1,4 @@
-# Week 2 CS50
+# Week 3 CS50X
 
 All files are from week 3 of Harvard CS50X - Algorithms 
 
